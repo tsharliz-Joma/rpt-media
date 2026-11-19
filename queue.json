@@ -14,7 +14,9 @@
    "story_posted": true,
    "story_media_id": "18085117808341059",
    "hold": false,
-   "caption_update_for_app": "Hi, we're Rocket Power Tech.\n\nWe make websites and monthly social posts for boxing gyms, fight gyms and personal trainers around Sydney. One simple monthly price, no upfront build fee.\n\nRun by Charles, a former fighter who builds websites. Say hi in the DMs.\n\n#sydneygyms #boxinggym #personaltrainer #gymmarketing #smallbusinesssydney"
+   "caption_update_for_app": "Hi, we're Rocket Power Tech.\n\nWe make websites and monthly social posts for boxing gyms, fight gyms and personal trainers around Sydney. One simple monthly price, no upfront build fee.\n\nRun by Charles, a former fighter who builds websites. Say hi in the DMs.\n\n#sydneygyms #boxinggym #personaltrainer #gymmarketing #smallbusinesssydney",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 2,
@@ -26,7 +28,9 @@
    "story": "stories/rpt-story-2.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": false,
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 3,
@@ -38,7 +42,9 @@
    "story": "stories/rpt-story-3.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": false,
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 4,
@@ -50,7 +56,9 @@
    "story": "stories/rpt-story-4.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": false,
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 5,
@@ -62,7 +70,9 @@
    "story": "stories/rpt-story-5.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": false,
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 6,
@@ -74,7 +84,9 @@
    "story": "stories/rpt-story-6.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": false,
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 7,
@@ -86,7 +98,9 @@
    "story": "stories/rpt-story-7.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": false,
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 8,
@@ -99,7 +113,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Reworded for fighter background, waiting for Charles to approve"
+   "hold_reason": "Reworded for fighter background, waiting for Charles to approve",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 9,
@@ -111,7 +127,9 @@
    "story": "stories/rpt-story-9.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": false,
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 10,
@@ -124,7 +142,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Waiting for Charles to approve week 2"
+   "hold_reason": "Waiting for Charles to approve week 2",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 11,
@@ -137,7 +157,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Waiting for Charles to approve week 2"
+   "hold_reason": "Waiting for Charles to approve week 2",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 12,
@@ -150,7 +172,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Waiting for Charles to approve week 2"
+   "hold_reason": "Waiting for Charles to approve week 2",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 13,
@@ -163,7 +187,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Waiting for Charles to approve week 2"
+   "hold_reason": "Waiting for Charles to approve week 2",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 14,
@@ -176,7 +202,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Waiting for Charles to approve week 2"
+   "hold_reason": "Waiting for Charles to approve week 2",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 15,
@@ -189,7 +217,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Waiting for Charles to approve week 2"
+   "hold_reason": "Waiting for Charles to approve week 2",
+   "style": "A",
+   "cycle": 1
   },
   {
    "n": 16,
@@ -202,7 +232,9 @@
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Waiting for Charles to approve week 2"
+   "hold_reason": "Waiting for Charles to approve week 2",
+   "style": "A",
+   "cycle": 1
   }
  ],
  "stories_approved": true

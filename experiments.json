@@ -1,0 +1,40 @@
+{
+ "account": "rocketpowertech",
+ "goal": "Change post style every 2 weeks, keep styles that perform better, build a solid base of proven styles.",
+ "metrics_source": "Windsor.ai instagram connector (media_reach, media_saved, media_shares, media_like_count, media_comments_count). Zapier can only read likes and comments.",
+ "rules": {
+  "only_count_posts_older_than_days": 3,
+  "per_post": "reach; engagements = likes + comments + saves + shares; engagement_rate = engagements / reach",
+  "per_cycle": "median reach per post and median engagement rate",
+  "compare_to": "the previous cycle (the account is growing, so adjacent cycles are the fairest comparison)",
+  "keep_style_if": "median reach and median engagement rate are both at least as good as the previous cycle, and at least one is 20% or more better",
+  "low_confidence": "if median reach is under 50, mark the result low confidence and keep testing rather than locking a style in",
+  "solid_base": "once 3 styles are in the base, or after 12 weeks, mix the base styles and test a new challenger every other cycle"
+ },
+ "style_library": {
+  "A": "Bold cards: big type on solid brand colour, short checklists (posts 1 to 16)",
+  "B": "Carousels: 4 to 6 slide tips for gym owners, first slide is a hook",
+  "C": "Big statement: one short line or one number, huge type, dark background, almost no other text",
+  "D": "Website mockups: phone and laptop frames showing gym site designs, before and after concepts",
+  "E": "Short Reels: 7 to 10 second animated text videos (needs video rendering, skip if not possible)",
+  "F": "Personal and fight story: Charles's real fight history and photos (needs photos from Charles)"
+ },
+ "test_order": [
+  "B",
+  "C",
+  "D",
+  "E",
+  "F"
+ ],
+ "base": [],
+ "cycles": [
+  {
+   "cycle": 1,
+   "style": "A",
+   "posts": "1 to 16",
+   "starts": "2026-11-19",
+   "ends": "2026-12-04",
+   "result": null
+  }
+ ]
+}
