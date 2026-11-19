@@ -49,8 +49,7 @@
    "story": "stories/rpt-story-4.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": true,
-   "hold_reason": "Pricing post: Charles is changing the $149 offer"
+   "hold": false
   },
   {
    "n": 5,
