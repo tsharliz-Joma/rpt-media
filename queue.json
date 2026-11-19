@@ -1,0 +1,78 @@
+{
+ "account": "rocketpowertech",
+ "schedule": "one feed post a day at 6:30pm Sydney",
+ "queue": [
+  {
+   "n": 1,
+   "title": "Intro",
+   "image": "posts/rpt-post-1.jpg",
+   "caption": "Hi, we're Rocket Power Tech.\n\nWe make websites and monthly social posts for boxing gyms, fight gyms and personal trainers around Sydney. One simple monthly price, no upfront build fee.\n\nRun by Charles, a boxing coach who builds websites. Say hi in the DMs.\n\n#sydneygyms #boxinggym #personaltrainer #gymmarketing #smallbusinesssydney",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 2,
+   "title": "Great gym, quiet website",
+   "image": "posts/rpt-post-2.jpg",
+   "caption": "Your coaching is sharp. Your community is tight. But if your website hasn't been touched in years, that's the first thing a new member sees.\n\nWe build clean, fast gym websites and keep them fresh, so your online first impression matches the real thing.\n\n#boxinggym #gymowner #sydneyfitness #gymmarketing",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 3,
+   "title": "What you get",
+   "image": "posts/rpt-post-3.jpg",
+   "caption": "What you actually get:\n\nA custom website for your gym, hosted and looked after.\n12 branded posts with captions, ready on the 1st of every month.\n\nYou run the gym. We keep you looking sharp online.\n\n#gymmarketing #boxinggym #sydneygyms #socialmediaforgyms",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 4,
+   "title": "Pricing",
+   "image": "posts/rpt-post-4.jpg",
+   "caption": "Three plans, no surprises.\n\nSite: $149 a month. Custom website, hosting and domain, plus 30 minutes of edits a month.\nContent: $399 a month. 12 branded posts with captions every month.\nSite + Content: $499 a month. Both, and you save $49.\n\nNo upfront build fee. Opening a new gym? Ask about the Launch Kit.\n\n#gymowner #boxinggym #sydneybusiness #gymmarketing",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 5,
+   "title": "How it works",
+   "image": "posts/rpt-post-5.jpg",
+   "caption": "How it works, start to finish:\n\n1. Fill in a short form and have a 15 minute chat about your gym.\n2. We build your site. You check it, we fix anything, it goes live.\n3. 12 fresh posts and captions land on the 1st of every month.\n\nThat's it. No tech headaches on your end.\n\n#gymowner #boxinggym #personaltrainer #sydneygyms",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 6,
+   "title": "Meet Northpaw",
+   "image": "posts/rpt-post-6.jpg",
+   "caption": "Meet Northpaw, a demo boxing gym we made up to show what a Rocket Power Tech site looks like.\n\nA clickable weekly timetable, clear membership prices, and a free class signup front and centre.\n\nWant to see your own gym like this? DM us MOCKUP.\n\n#boxinggym #gymwebsite #webdesign #sydneygyms",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 7,
+   "title": "Gym site checklist",
+   "image": "posts/rpt-post-7.jpg",
+   "caption": "Quick check for gym owners. Does your website have these three?\n\n1. Your timetable, up to date. People want to know when they can come.\n2. Clear prices. Hidden prices make people click away.\n3. A free class button that's easy to find. Make the first step simple.\n\nMissing one? We can help.\n\n#gymowner #boxinggym #gymtips #sydneyfitness",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 8,
+   "title": "Built with AI",
+   "image": "posts/rpt-post-8.jpg",
+   "caption": "Honest answer to a fair question: yes, we use AI.\n\nIt helps us design and build fast, which is how we keep prices low. But every site and every post gets checked by me before it goes anywhere. Wrong class times or made up claims don't get past a coach.\n\nCharles, Rocket Power Tech\n\n#boxingcoach #gymmarketing #smallbusinesssydney #webdesign",
+   "posted": false,
+   "media_id": null
+  },
+  {
+   "n": 9,
+   "title": "Free mockup offer",
+   "image": "posts/rpt-post-9.jpg",
+   "caption": "Want to see what your gym could look like online?\n\nSend us a DM with the word MOCKUP and we'll design a homepage mockup for your gym, free. If you like it, we can talk. If not, no worries.\n\nBoxing gyms, fight gyms and PTs around Sydney.\n\n#boxinggym #sydneygyms #personaltrainer #gymowner",
+   "posted": false,
+   "media_id": null
+  }
+ ]
+}
