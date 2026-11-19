@@ -1,14 +1,15 @@
 {
  "account": "rocketpowertech",
- "schedule": "one feed post a day at 6:30pm Sydney",
+ "schedule": "one feed post a day at about 6:08pm Sydney",
  "queue": [
   {
    "n": 1,
    "title": "Intro",
    "image": "posts/rpt-post-1.jpg",
    "caption": "Hi, we're Rocket Power Tech.\n\nWe make websites and monthly social posts for boxing gyms, fight gyms and personal trainers around Sydney. One simple monthly price, no upfront build fee.\n\nRun by Charles, a boxing coach who builds websites. Say hi in the DMs.\n\n#sydneygyms #boxinggym #personaltrainer #gymmarketing #smallbusinesssydney",
-   "posted": false,
-   "media_id": null
+   "posted": true,
+   "media_id": "18135045232829282",
+   "posted_at": "2026-11-19T18:13:00+11:00"
   },
   {
    "n": 2,
