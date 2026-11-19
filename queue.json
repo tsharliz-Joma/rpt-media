@@ -97,7 +97,8 @@
    "story": "stories/rpt-story-8.jpg",
    "story_posted": false,
    "story_media_id": null,
-   "hold": false
+   "hold": true,
+   "hold_reason": "Says Charles is a coach, needs rewording"
   },
   {
    "n": 9,
