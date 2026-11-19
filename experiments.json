@@ -13,18 +13,20 @@
  },
  "style_library": {
   "A": "Bold cards: big type on solid brand colour, short checklists (posts 1 to 16)",
-  "B": "Carousels: 4 to 6 slide tips for gym owners, first slide is a hook",
-  "C": "Big statement: one short line or one number, huge type, dark background, almost no other text",
-  "D": "Website mockups: phone and laptop frames showing gym site designs, before and after concepts",
-  "E": "Short Reels: 7 to 10 second animated text videos (needs video rendering, skip if not possible)",
-  "F": "Personal and fight story: Charles's real fight history and photos (needs photos from Charles)"
+  "B": "Floating islands: warm off white background (#F5F4F0) with soft organic blob shapes in brand colours floating off the corners, never covering text. Big ink headline, small grey kicker line above it, one blue info pill (not a fake button), and a round avatar with the rocket mark plus 'Charles, Former fighter, Sydney web developer' at the bottom. Sample: samples/style-B-floating-islands.jpg, template: tools/reference/floating_islands_sample.html",
+  "C": "Carousels: 4 to 6 slide tips for gym owners, first slide is a hook",
+  "D": "Big statement: one short line or one number, huge type, dark background, almost no other text",
+  "E": "Website mockups: phone and laptop frames showing gym site designs, before and after concepts",
+  "F": "Short Reels: 7 to 10 second animated text videos (needs video rendering, skip if not possible)",
+  "G": "Personal and fight story: Charles's real fight history and photos (needs photos from Charles)"
  },
  "test_order": [
   "B",
   "C",
   "D",
   "E",
-  "F"
+  "F",
+  "G"
  ],
  "base": [],
  "cycles": [
@@ -36,5 +38,6 @@
    "ends": "2026-12-04",
    "result": null
   }
- ]
+ ],
+ "notes": "Charles asked for floating islands to be tested next, inspired by a soft blob card ad he liked."
 }
