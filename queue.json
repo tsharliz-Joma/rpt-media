@@ -1,6 +1,6 @@
 {
  "account": "rocketpowertech",
- "schedule": "one feed post a day at about 6:08pm Sydney",
+ "schedule": "one feed post and one Story a day at about 6:08pm Sydney",
  "queue": [
   {
    "n": 1,
@@ -11,8 +11,9 @@
    "media_id": "18135045232829282",
    "posted_at": "2026-11-19T18:13:00+11:00",
    "story": "stories/rpt-story-1.jpg",
-   "story_posted": false,
-   "story_media_id": null
+   "story_posted": true,
+   "story_media_id": "18085117808341059",
+   "hold": false
   },
   {
    "n": 2,
@@ -23,7 +24,8 @@
    "media_id": null,
    "story": "stories/rpt-story-2.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": false
   },
   {
    "n": 3,
@@ -34,7 +36,8 @@
    "media_id": null,
    "story": "stories/rpt-story-3.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": false
   },
   {
    "n": 4,
@@ -45,7 +48,9 @@
    "media_id": null,
    "story": "stories/rpt-story-4.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": true,
+   "hold_reason": "Pricing post: Charles is changing the $149 offer"
   },
   {
    "n": 5,
@@ -56,7 +61,8 @@
    "media_id": null,
    "story": "stories/rpt-story-5.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": false
   },
   {
    "n": 6,
@@ -67,7 +73,8 @@
    "media_id": null,
    "story": "stories/rpt-story-6.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": false
   },
   {
    "n": 7,
@@ -78,7 +85,8 @@
    "media_id": null,
    "story": "stories/rpt-story-7.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": false
   },
   {
    "n": 8,
@@ -89,7 +97,8 @@
    "media_id": null,
    "story": "stories/rpt-story-8.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": false
   },
   {
    "n": 9,
@@ -100,8 +109,9 @@
    "media_id": null,
    "story": "stories/rpt-story-9.jpg",
    "story_posted": false,
-   "story_media_id": null
+   "story_media_id": null,
+   "hold": false
   }
  ],
- "stories_approved": false
+ "stories_approved": true
 }
