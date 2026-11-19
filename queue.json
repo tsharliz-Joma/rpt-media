@@ -13,7 +13,8 @@
    "story": "stories/rpt-story-1.jpg",
    "story_posted": true,
    "story_media_id": "18085117808341059",
-   "hold": false
+   "hold": false,
+   "caption_update_for_app": "Hi, we're Rocket Power Tech.\n\nWe make websites and monthly social posts for boxing gyms, fight gyms and personal trainers around Sydney. One simple monthly price, no upfront build fee.\n\nRun by Charles, a former fighter who builds websites. Say hi in the DMs.\n\n#sydneygyms #boxinggym #personaltrainer #gymmarketing #smallbusinesssydney"
   },
   {
    "n": 2,
@@ -91,14 +92,14 @@
    "n": 8,
    "title": "Built with AI",
    "image": "posts/rpt-post-8.jpg",
-   "caption": "Honest answer to a fair question: yes, we use AI.\n\nIt helps us design and build fast, which is how we keep prices low. But every site and every post gets checked by me before it goes anywhere. Wrong class times or made up claims don't get past a coach.\n\nCharles, Rocket Power Tech\n\n#boxingcoach #gymmarketing #smallbusinesssydney #webdesign",
+   "caption": "Honest answer to a fair question: yes, we use AI.\n\nIt helps us design and build fast, which is how we keep prices low. But every site and every post gets checked by me before it goes anywhere. 66 fights taught me to sweat the details, so wrong class times or made up claims don't get past me.\n\nCharles, Rocket Power Tech\n\n#boxing #gymmarketing #smallbusinesssydney #webdesign",
    "posted": false,
    "media_id": null,
    "story": "stories/rpt-story-8.jpg",
    "story_posted": false,
    "story_media_id": null,
    "hold": true,
-   "hold_reason": "Says Charles is a coach, needs rewording"
+   "hold_reason": "Reworded for fighter background, waiting for Charles to approve"
   },
   {
    "n": 9,
@@ -181,7 +182,7 @@
    "n": 15,
    "title": "Why gyms",
    "image": "posts/rpt-post-15.jpg",
-   "caption": "Why do we only work with gyms, fight gyms and PTs?\n\nBecause I coach boxing myself. I know the questions new members ask, what makes them nervous about a first class, and what gets them through the door. That's what we build every site around.\n\nCharles, Rocket Power Tech\n\n#boxingcoach #boxinggym #gymowner #sydneygyms",
+   "caption": "Why do we only work with gyms, fight gyms and PTs?\n\nBecause I spent years in them. 66 fights, an Arafura Games gold, two Victorian titles and three Queensland Golden Gloves.\n\nI know what it feels like to walk into a gym for the first time, and what makes people stay. That's what we build every site around.\n\nCharles, Rocket Power Tech\n\n#boxing #boxinggym #gymowner #sydneygyms",
    "posted": false,
    "media_id": null,
    "story": "stories/rpt-story-15.jpg",
